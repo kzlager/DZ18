@@ -3,3 +3,13 @@
 /Users/alekseirumiantsev/Desktop/Examples/DZ18/obj/Debug/net6.0/DZ18.AssemblyInfoInputs.cache
 /Users/alekseirumiantsev/Desktop/Examples/DZ18/obj/Debug/net6.0/DZ18.AssemblyInfo.cs
 /Users/alekseirumiantsev/Desktop/Examples/DZ18/obj/Debug/net6.0/DZ18.csproj.CoreCompileInputs.cache
+/Users/alekseirumiantsev/Desktop/Examples/DZ18/bin/Debug/net6.0/DZ18
+/Users/alekseirumiantsev/Desktop/Examples/DZ18/bin/Debug/net6.0/DZ18.deps.json
+/Users/alekseirumiantsev/Desktop/Examples/DZ18/bin/Debug/net6.0/DZ18.runtimeconfig.json
+/Users/alekseirumiantsev/Desktop/Examples/DZ18/bin/Debug/net6.0/DZ18.dll
+/Users/alekseirumiantsev/Desktop/Examples/DZ18/bin/Debug/net6.0/ref/DZ18.dll
+/Users/alekseirumiantsev/Desktop/Examples/DZ18/bin/Debug/net6.0/DZ18.pdb
+/Users/alekseirumiantsev/Desktop/Examples/DZ18/obj/Debug/net6.0/DZ18.dll
+/Users/alekseirumiantsev/Desktop/Examples/DZ18/obj/Debug/net6.0/ref/DZ18.dll
+/Users/alekseirumiantsev/Desktop/Examples/DZ18/obj/Debug/net6.0/DZ18.pdb
+/Users/alekseirumiantsev/Desktop/Examples/DZ18/obj/Debug/net6.0/DZ18.genruntimeconfig.cache

@@ -12,10 +12,10 @@ if (!(x||y)==!x&&!y)
 else
     Console.WriteLine("(вар 1) утверждение не истинно x = true y = true");
 
-x = true; //1
-y = false; //0
+x = true;
+y = false;
 
-if (!(x||y)==!x&&!y) (0 || 1) = 0 && 1
+if (!(x||y)==!x&&!y)
 
     Console.WriteLine("(вар 2) утверждение истинно при x = true y = false");
 else
@@ -33,9 +33,9 @@ x = false;
 y = false;
 
 if (!(x||y)==!x&&!y)
-    Console.WriteLine($"(вар 4) утверждение истинно при x = false y = false");
+    Console.WriteLine("(вар 4) утверждение истинно при x = false y = false");
 else
-    Console.WriteLine($"(вар 4) утверждение не истинно при x = false y = false");
+    Console.WriteLine("(вар 4) утверждение не истинно при x = false y = false");
 
 x = false;
 y = false;
