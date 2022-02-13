@@ -1,0 +1,5 @@
+/Users/alekseirumiantsev/Desktop/Examples/DZ18/obj/Debug/net6.0/DZ18.csproj.AssemblyReference.cache
+/Users/alekseirumiantsev/Desktop/Examples/DZ18/obj/Debug/net6.0/DZ18.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alekseirumiantsev/Desktop/Examples/DZ18/obj/Debug/net6.0/DZ18.AssemblyInfoInputs.cache
+/Users/alekseirumiantsev/Desktop/Examples/DZ18/obj/Debug/net6.0/DZ18.AssemblyInfo.cs
+/Users/alekseirumiantsev/Desktop/Examples/DZ18/obj/Debug/net6.0/DZ18.csproj.CoreCompileInputs.cache
